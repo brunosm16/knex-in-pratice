@@ -1,0 +1,19 @@
+{
+  "name": "knex-in-practice",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <a name=\"readme-top\"></a>  <h3 align=\"center\">Knex-In-Practice</h3>  <a>     <img src=\"https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white\" width=\"300\">   </a>   <p align=\"center\">     Hands-on-learning Knex JS   </p> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunosm16/knex-in-pratice/issues"
+  },
+  "homepage": "https://github.com/brunosm16/knex-in-pratice#readme"
+}
