@@ -19,5 +19,8 @@
   "dependencies": {
     "knex": "^2.3.0",
     "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
   }
 }
