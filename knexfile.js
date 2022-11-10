@@ -4,7 +4,7 @@ if (isProduction) require("dotenv").config();
 module.exports = {
   client: "mysql2",
   connection: {
-    database: "knex_in_practice",
+    database: "sakila",
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
   },
