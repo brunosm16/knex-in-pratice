@@ -1,12 +1,9 @@
-const isProduction = process.env.NODE_ENV !== "production";
-if (isProduction) require("dotenv").config();
-
 module.exports = {
   client: "mysql2",
   connection: {
     database: "sakila",
-    user: process.env.DB_USER,
-    password: process.env.DB_PASSWORD,
+    user: 'brunom',
+    password: 'password',
   },
   pool: {
     min: 2,
